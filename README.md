@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection — Decision Tree Playground
+# Credit Card Fraud Detection — ML Models Playground
 
 A local Streamlit app for experimenting with a Decision Tree classifier.
 
